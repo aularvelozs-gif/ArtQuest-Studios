@@ -1,0 +1,6 @@
+{
+  "name": "CobroÁgil",
+  "description": "Punto de Venta bimoneda (USD / VES) con calculadora de vuelto, historial inmutable y analítica",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

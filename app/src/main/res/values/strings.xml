@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CobroÁgil</string>
+    <string name="tab_counter">Mostrador</string>
+    <string name="tab_products">Productos</string>
+    <string name="tab_history">Historial</string>
+    <string name="tab_analytics">Analítica</string>
+    <string name="rate_banner_title">Tasa Activa</string>
+    <string name="rate_outdated_warning">⚠️ La tasa de cambio no se ha actualizado en las últimas 24 horas</string>
+    <string name="edit_rate">Editar Tasa</string>
+    <string name="converter">Convertidor</string>
+    <string name="register_and_charge">REGISTRAR Y COBRAR</string>
+</resources>
